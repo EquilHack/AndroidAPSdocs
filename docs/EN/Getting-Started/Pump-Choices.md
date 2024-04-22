@@ -14,6 +14,7 @@ AAPS works with a number of insulin pumps.  The following list shows the current
 - [Omnipod DASH](../Configuration/OmnipodDASH.md)  (Bluetooth)
 - [Medtrum Nano](../Configuration/MedtrumNano.md)  (Bluetooth)
 - [Medtrum 300U](../Configuration/MedtrumNano.md)  (Bluetooth)
+- [Microtech Equil v5.3](../Configuration/MedtrumNano.md)  (Bluetooth)
 - Certain older [Medtronic](../Configuration/MedtronicPump.md) (Rileylink Compatible Device)
 
 Details of the status of other pumps that may have the potential to work with AAPS are listed on the [Future (possible) Pumps](Future-possible-Pump-Drivers.md) page.
